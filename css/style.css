@@ -1,0 +1,16 @@
+#top-header{
+    background-color: darkmagenta;
+    text-align: left;
+}
+#top-header a{
+    font-size: 16px;
+    color: white;
+    padding: 12px;
+}
+
+p{
+    text-align: justify;
+}
+.speaker-img{
+    
+}
